@@ -267,4 +267,4 @@ a img:hover {
     background-attachment: fixed;
     background-size: 100% auto;
 }
-@import url(assets/css/style.scss);
+@import "jekyll-theme-architect";
